@@ -1,7 +1,7 @@
 # TextKG
-<<<<<<< HEAD
+
 Text with Knowledge Graph Augmented Transformer for Video Captioning
-=======
+
 [[Paper]](https://arxiv.org/abs/2303.12423) 
 
 Official code for **Text with Knowledge Graph Augmented Transformer for Video Captioning**. <br>
@@ -84,5 +84,3 @@ If our research and this repository are helpful to your work, please cite with:
 ## Acknowledge
 
 Code of the decoding part is based on [MART](https://github.com/jayleicn/recurrent-transformer).
-
->>>>>>> fa85c52 (textkg_youcook2)
